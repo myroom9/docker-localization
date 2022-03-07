@@ -9,3 +9,6 @@
 ### db tip
 1. db connection host는 db container 명으로 명시해줘야함
 2. docker desktop에서 뭐로 떴는지 확인 후 입력해도됨
+
+### docker container order관련
+https://jupiny.com/2016/11/13/conrtrol-container-startup-order-in-compose/
